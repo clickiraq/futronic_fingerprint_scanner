@@ -1,0 +1,2 @@
+export PATH=/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/hama/.pub-cache/bin:/Users/Hama/development/flutter/bin:/opt/homebrew/bin
+export PATH=/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/Users/hama/.pub-cache/bin:/Users/Hama/development/flutter/bin:/opt/homebrew/bin:/Users/hama/.pub-cache/bin:/Users/Hama/development/flutter/bin:/opt/homebrew/bin
